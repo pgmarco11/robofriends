@@ -1,2 +1,1 @@
-robofriends
-Tutorial for udemy course
+robofriends for udemy course
